@@ -48,6 +48,8 @@
 
 ### [**Web App Link**](https://restaurants-sentiment-analysis.herokuapp.com/)
 
+![Alt Text](/images/restaurant.gif)
+
 
 
 
