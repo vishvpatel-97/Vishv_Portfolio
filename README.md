@@ -38,5 +38,16 @@
 
 ![Alt Text](/images/IPL.gif)
 
+## [Project4: Restaurant Review Sentiment Analysis:](https://github.com/vishvpatel-97/Restaurant-Review-Sentiment-Analysis)
+- A complete End-to-End project of NLP, predicting that the Restaurant Review is positive or negative
+- Dataset has 10000 rows and 7 columns.
+- We have to predict whether a review is "Positive" or "Negative".
+- PortStemmer method has been used for Stemming.
+- I have also tried WordEmbedding with LSTM.
+- I have applied many different algorithms LSTM, Bi-Directional LSTM, RandomForestClassifier, MultinomialNB, SVM and KNN.
+
+### [**Web App Link**](https://restaurants-sentiment-analysis.herokuapp.com/)
+
+
 
 
