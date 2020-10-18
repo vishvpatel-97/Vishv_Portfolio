@@ -14,5 +14,5 @@
 
 ## [**Web App Link**](http://diabetes-predictor-app-ml.herokuapp.com/)
 
-<img src="/images/Diabetes.gif" width="700", height="400" />
+<img src="/images/Diabetes.gif" width="700" height="400">
 
