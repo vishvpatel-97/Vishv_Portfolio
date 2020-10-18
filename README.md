@@ -1,4 +1,4 @@
-<img src="https://github.com/vishvpatel-97/Vishv_portfolio/blob/main/images/MyPhoto.png" width=350, height=350>
+<img src="/images/MyPhoto.png" width=350, height=350>
 
 # Vishv Patel
 
@@ -14,5 +14,5 @@
 
 ## [Web App Link](http://diabetes-predictor-app-ml.herokuapp.com/)
 
-<img src="https://github.com/vishvpatel-97/Vishv_portfolio/blob/main/images/Diabetes.gif" width=700, height=400>
+<img src="/images/Diabetes.gif" width=700, height=400>
 
