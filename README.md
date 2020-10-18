@@ -1,4 +1,4 @@
-<img src="\images\MyPhoto.png" width="250" height="250" />
+<img src="/images/MyPhoto.png" width="250" height="250" />
 
 # **Vishv Patel**
 
