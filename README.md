@@ -23,6 +23,6 @@
 - For testing I have used around 50 images.
 - For details see my github code.
 
-## [**Web App Link**]((https://covid19-xray-detection.herokuapp.com/)
+## [**Web App Link**](https://covid19-xray-detection.herokuapp.com/)
 
 <img src="/images/covid19.gif" width="700" height="400" />
