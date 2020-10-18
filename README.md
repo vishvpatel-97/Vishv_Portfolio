@@ -1,4 +1,4 @@
-<img src="/images/MyPhoto.png" width="350" height="350"/>
+<img src="/images/MyPhoto.png" width="350" height="350">
 
 # **Vishv Patel**
 
