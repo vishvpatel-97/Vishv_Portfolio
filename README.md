@@ -27,3 +27,16 @@
 
 ![.](/images/covid19.gif)
 
+## [Project3: IPL First Innings Score:](https://github.com/vishvpatel-97/IPL_Score_prediction)
+- End-to-End Machine learning project for predicting IPL first innings score.
+- Data consists of IPL matches held between 2008 to 2017.
+- Data cleaning & data preprocessing has been applied to the data.
+- Linear Regression has been applied to the model for final prediction.
+- For more details visit my github code.
+
+### [**Web App Link**](https://vishviplscoreprediction.herokuapp.com/)
+
+![.](/images/
+
+
+
