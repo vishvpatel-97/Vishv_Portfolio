@@ -1,5 +1,6 @@
 <img src="/images/MyPhoto.png" width="350" height="350">
-![.](/images/MyPhoto.png)
+!.[.].(/images/MyPhoto.png)
+
 # **Vishv Patel**
 
 ## **Below are the dashboards & Projects that I have made.**
