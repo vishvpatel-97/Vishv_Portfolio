@@ -1,4 +1,4 @@
-![alt text](/images/myphoto.png)
+!.[.].(/images/myphoto.png)
 
 # **Vishv Patel**
 
@@ -14,7 +14,7 @@
 
 ### [**Web App Link**](http://diabetes-predictor-app-ml.herokuapp.com/)
 
-![alt text](/images/diabetes.gif)
+!.[.].(/images/diabetes.gif)
 
 ## [Project2: Covid-19 detection:](https://github.com/vishvpatel-97/Covid-19-Detection-Project)
 - Complete project on Image classification detecting Covid-19 from X-ray images.
@@ -25,5 +25,5 @@
 
 ### [**Web App Link**](https://covid19-xray-detection.herokuapp.com/)
 
-![alt text](/images/covid19.gif)
+!.[.].(/images/covid19.gif)
 
