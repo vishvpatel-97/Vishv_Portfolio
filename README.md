@@ -36,7 +36,7 @@
 
 ### [**Web App Link**](https://vishviplscoreprediction.herokuapp.com/)
 
-![.](/images/IPL (3).gif)
+![.](/images/IPLmatch.gif)
 
 
 
