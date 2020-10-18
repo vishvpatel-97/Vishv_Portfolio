@@ -4,7 +4,40 @@
 
 ### Below are the dashboards & Projects that I have made.
 
-## **Projects**
+## **Dashboard's**
+
+## Dashboard 1: Retail-Analytics
+
+Dashboard is about retail data analyis of Sales & Profit of an company serving Worldwide using **Power BI.**
+
+![Alt Text](/images/retail_analytics.gif)
+
+## Dashboard 2: HR-Analytics
+
+Dashboard is about Employee and their satisfaction with their work using **Power BI.**
+
+![Alt Text](/images/hr_analytics.gif)
+
+## Dashboard 3: Sales Analytics
+
+Dashboard is about Sales & Revenue yearwise of a company using **Power BI.**
+
+![Alt Text](/images/sales_analytics.gif)
+
+## Dashboard 4: Google Playstore Analytics
+
+Dashboard is about top Apps of Google playstore using **Tableau.**
+
+![Alt Text](/dashboard's/Google_play_store.png)
+
+## Dashboard 5: Money Spending by Generation analysis
+
+Dashboard is about money spending by generation using **Tableau.**
+
+![Alt Text](/images/money_spending.gif)
+
+
+# **Projects**
 
 ## [Project1: Diabetes Prediction using classification algorithms](https://github.com/vishvpatel-97/Diabetes_predictor)
 - Created a app that predicts the person is having diabetes or not.
