@@ -1,4 +1,4 @@
-<img src="https://github.com/vishvpatel-97/Vishv_portfolio/blob/main/images/MyPhoto.png" width=350, height=400>
+<img src="https://github.com/vishvpatel-97/Vishv_portfolio/blob/main/images/MyPhoto.png" width=350, height=350>
 
 # Vishv Patel
 
