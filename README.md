@@ -22,6 +22,6 @@
 
 - As **RandomForest Classifer** has best accuracy compared to others so I have used in the model to build Web App.
 
-<img src="https://github.com/vishvpatel-97/Diabetes_predictor/blob/master/static/Diabetes.gif" width=700, height=400>
+<img src="https://github.com/vishvpatel-97/Vishv_portfolio/blob/main/images/Diabetes.gif" width=700, height=400>
 
 [Web App Link](http://diabetes-predictor-app-ml.herokuapp.com/)
