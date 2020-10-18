@@ -2,7 +2,7 @@
 
 # **Vishv Patel**
 
-## **Below are the dashboards & Projects that I have made.**
+## Below are the dashboards & Projects that I have made.
 
 # **Projects**
 
