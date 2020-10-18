@@ -79,7 +79,6 @@
 - LSTM algorithm has been applied to the model for predicting the stock price of Apple company for the next 30 days.
 
 ## [Project8: Real time Speech-Recognition to search & play youtube video](https://github.com/vishvpatel-97/Speech-Recognition)
-- Real time Speech-Recognition Project to search & play youtube video.
 - A user can give a voice command in his/her computer's microphone, so that the Speech Recognition API can understand that speech.
 - The voice command captured will then trigger a web based query in web browser to open youtube.com search page automatically and search for a particular video based on keyword a user has uttered.
 - After that it will select one video from the youtube page automatically thereby playing it in VLC media player available on your computer.
