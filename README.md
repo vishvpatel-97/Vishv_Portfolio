@@ -1,4 +1,4 @@
-<img src="https://github.com/vishvpatel-97/Vishv_portfolio/blob/main/images/my-passport-photo.jpg" width=400, height=400>
+<img src="https://github.com/vishvpatel-97/Vishv_portfolio/blob/main/images/MyPhoto.png" width=300, height=500>
 
 # Vishv Patel
 
