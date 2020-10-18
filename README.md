@@ -58,6 +58,17 @@
 
 ### [**Web App Link**](https://movie-recommendor-engine.herokuapp.com/)
 
+![Alt text](/images/movie.gif)
+
+## [Project6: Used Car Price Prediction:](https://github.com/vishvpatel-97/car-price-prediction)
+- End-to-end Machine learning(Regression) model to predict the used car price.
+- Data was taken from Kaggle.
+- First I have done **EDA & Data cleaning** process.
+- **Feature engineering & feature selection** techniques has been applied to the model.
+- **Used Randomforest regressor** algorithm for the flask framework to build web app.
+
+### [**Web App Link**](https://carpricepredictionmodel.herokuapp.com/)
+
 
 
 
