@@ -1,4 +1,4 @@
-!.[.].(/images/myphoto.png)
+![.](/images/myphoto.png)
 
 # **Vishv Patel**
 
