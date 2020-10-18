@@ -25,4 +25,4 @@
 
 ## [**Web App Link**]((https://covid19-xray-detection.herokuapp.com/)
 
-<img src="/images/Covid-19.gif" width="700" height="400" />
+<img src="/images/covid19.gif" width="700" height="400" />
