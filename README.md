@@ -1,5 +1,5 @@
 <img src="/images/MyPhoto.png" width="350" height="350">
-!.[.].(/images/MyPhoto.png)
+
 
 # **Vishv Patel**
 
