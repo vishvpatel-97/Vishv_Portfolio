@@ -1,7 +1,7 @@
 # Vishv_portfolio
 This is my Portfolio.
 # Project1: Diabetes Prediction using classification algorithms
-
+- Created a app that predicts the person is having diabetes or not.
 - Dataset was taken form the Kaggle.
 - **EDA, Data cleaning & Feature engineering techniques** has been applied.
 - **Classification Algorithms** like Random Forest , Logistic regression, XGbosst classifier has been applied to the model
@@ -15,3 +15,7 @@ This is my Portfolio.
 | XGBoost classifier         | 86.25%        |
 
 - As **RandomForest Classifer** has best accuracy compared to others so I have used in the model to build Web App.
+
+<img src="https://github.com/vishvpatel-97/Diabetes_predictor/blob/master/static/Diabetes.gif" width=700, height=400>
+
+[Web App Link](http://diabetes-predictor-app-ml.herokuapp.com/)
