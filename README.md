@@ -30,7 +30,7 @@ Dashboard is about top Apps of Google playstore using **Tableau.**
 
 ![Alt Text](/images/Google_play_store.png)
 
-## Dashboard 5: Money Spending by Generation analysis
+## Dashboard 5: Money Spending by Generation
 
 Dashboard is about money spending by generation using **Tableau.**
 
