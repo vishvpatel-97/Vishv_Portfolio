@@ -69,6 +69,7 @@
 
 ### [**Web App Link**](https://carpricepredictionmodel.herokuapp.com/)
 
+![Alt text](/images/carmodel.gif)
 
 
 
