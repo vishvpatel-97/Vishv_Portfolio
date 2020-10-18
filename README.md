@@ -28,7 +28,7 @@ Dashboard is about Sales & Revenue yearwise of a company using **Power BI.**
 
 Dashboard is about top Apps of Google playstore using **Tableau.**
 
-![Alt Text](/dashboard's/Google_play_store.png)
+![Alt Text](/images/Google_play_store.png)
 
 ## Dashboard 5: Money Spending by Generation analysis
 
