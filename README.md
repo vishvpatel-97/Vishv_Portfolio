@@ -1,4 +1,4 @@
-<img src="/images/MyPhoto.png" width=250 height=250 />![](images/MyPhoto.png)
+<img src="/images/MyPhoto.png" width="250" height="250" />
 
 # **Vishv Patel**
 
@@ -14,5 +14,5 @@
 
 ## [**Web App Link**](http://diabetes-predictor-app-ml.herokuapp.com/)
 
-<img src="/images/Diabetes.gif" width="700" height="400">
+<img src="/images/Diabetes.gif" width="700" height="400" />
 
